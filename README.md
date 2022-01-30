@@ -3,7 +3,7 @@
 
 This repositories collects all my creation I made the class - reading and writing electronic text - Spring2022 with Allison Parrish.
 
-[Assignment 1:](docs/some-poetry-generators.ipynb)
+[Assignment 1:](/some-poetry-generators.ipynb)
 Try some poem generators.
 I made some changes to the Dadaist poem generator and love letter generator.
 For the Dadaist poem generator, I changed the original text to a recent curatorial release I wrote and did some string cleaning to exclude the symbols in the text. The original instruction by Tristian Tzara did not clarify the cases in symbols in the text. With the original poem generators, the symbols are assumed as words and mixed in the sentences.  
