@@ -12,10 +12,4 @@ For the love letter generator, I manipulated the code into a cover letter genera
 
 
 [Assignment 2:](/pythonPoem.ipynb)
-I hope to dig into the idea of data structure and manipulation in this poem.
-The original input text is a simple line of text - "This is a python poem".
-By manipulating its order of appending and releasing,
-the final poem presents a deterministic result of a triadic/stepped line poem.
-In thinking of stacks and queues for data structure, 
-the FIFO and LIFO order or the two data structures made this poem
-For future development, I hope to manipulate the order of the text even further.
+I hope to dig into the idea of data structure and manipulation in this poem. The original input text is a simple line of text - "This is a python poem". By manipulating its order of appending and releasing, the final poem presents a deterministic result of a triadic/stepped line poem. In thinking of stacks and queues for data structure, the FIFO and LIFO order or the two data structures made this poem. For future development, I hope to manipulate the order of the text even further. It took me a lot of time trying to get the poem tidily organized for the first trail. The effort also grants me a stronger understanding of the code, and therefore, I will be able to do more modification in the future.
