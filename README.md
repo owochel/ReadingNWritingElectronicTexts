@@ -19,3 +19,9 @@ Making this generator, I was able to do the design and calculation without addit
 
 [Assignment 4:](/Cutup.ipynb)
 I took the assigment instruction and cut it up based on part of speech, forming sentences that talks about texts/computations/digitization. I'm intrigued by the concepts of autosynthesis and Ouroboros. For this assignment, using the assignment's instruction to do what the instruction is asking me to do, I'm playing a part in this autosynthesis process. 
+
+[Assignment 5:](/markov_chain.ipynb)
+In this assignment, I cut up the translated version of Sin and Punishment and made a markov chain model for future generation. What I found about this process is that the mrakov chain sucessfully retained the essence of sentence structure of this translated Russian novel in contrast to the random cup up while the cut up retained the essence of diction in contrast to this markov chain.
+
+[Assignment 6:]
+
