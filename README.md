@@ -23,5 +23,11 @@ I took the assigment instruction and cut it up based on part of speech, forming 
 [Assignment 5:](/markov_chain.ipynb)
 In this assignment, I cut up the translated version of Sin and Punishment and made a markov chain model for future generation. What I found about this process is that the mrakov chain sucessfully retained the essence of sentence structure of this translated Russian novel in contrast to the random cup up while the cut up retained the essence of diction in contrast to this markov chain.
 
-[Assignment 6:]
+[Assignment 6:](/IngredientsWithLists.ipynb)
+This is an exloratiton based on assignment 3. The process of creating this program felt a lot like cooking, gathering the ingredients and seasonings. Linking back to the orgin of assignment 3, the process of creation is empowering. During the final critique, I breifly shared my struggle with food to the class, and a peer pointed out this process of my manipulation of food is a showcase of my resilience.
+
+The creation is limited by the words' pool, words' types' taxonomies, and words' rearrangements because they are only my personal interpretations. The limitations only show that the project can be expanded to be extremely large (which I intend to do) and will still be limited.
+
+There are a lot of future direction for this project. This project has the essence of a series of collectables because the products are all varied but feels harmonic due to their shared taxaonomy and logic. One other direction could be the visualization of the final food product. Potentially the products can be made into a boardgame or virtue game and asks players to visualize the product and showcase their works. Another direction is focusing on the physical artifact of the program. I could imagine a vending machine that's filled with fake product that came from the output from the program.
+
 
